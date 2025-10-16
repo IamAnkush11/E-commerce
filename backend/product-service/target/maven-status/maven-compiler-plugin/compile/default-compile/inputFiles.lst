@@ -1,0 +1,14 @@
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\product-service\src\main\java\com\ecommerce\productservice\controller\ProductController.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\product-service\src\main\java\com\ecommerce\productservice\repository\ProductRepository.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\product-service\src\main\java\com\ecommerce\productservice\dto\PaginatedResponse.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\product-service\src\main\java\com\ecommerce\productservice\entity\ProductStatus.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\product-service\src\main\java\com\ecommerce\productservice\controller\AdminProductController.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\product-service\src\main\java\com\ecommerce\productservice\config\OpenApiConfig.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\product-service\src\main\java\com\ecommerce\productservice\config\CorsConfig.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\product-service\src\main\java\com\ecommerce\productservice\exception\GlobalExceptionHandler.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\product-service\src\main\java\com\ecommerce\productservice\config\ModelMapperConfig.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\product-service\src\main\java\com\ecommerce\productservice\dto\ProductDTO.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\product-service\src\main\java\com\ecommerce\productservice\ProductServiceApplication.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\product-service\src\main\java\com\ecommerce\productservice\service\ProductService.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\product-service\src\main\java\com\ecommerce\productservice\dto\ProductCreateDTO.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\product-service\src\main\java\com\ecommerce\productservice\entity\Product.java

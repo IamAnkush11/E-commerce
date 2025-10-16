@@ -1,0 +1,17 @@
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\wishlist-service\src\main\java\com\ecommerce\wishlistservice\dto\WishlistItemDTO.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\wishlist-service\src\main\java\com\ecommerce\wishlistservice\repository\WishlistItemRepository.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\wishlist-service\src\main\java\com\ecommerce\wishlistservice\service\WishlistService.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\wishlist-service\src\main\java\com\ecommerce\wishlistservice\config\ModelMapperConfig.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\wishlist-service\src\main\java\com\ecommerce\wishlistservice\entity\WishlistItem.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\wishlist-service\src\main\java\com\ecommerce\wishlistservice\config\OpenApiConfig.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\wishlist-service\src\main\java\com\ecommerce\wishlistservice\repository\WishlistCollectionRepository.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\wishlist-service\src\main\java\com\ecommerce\wishlistservice\dto\WishlistStatsDTO.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\wishlist-service\src\main\java\com\ecommerce\wishlistservice\config\WebClientConfig.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\wishlist-service\src\main\java\com\ecommerce\wishlistservice\controller\WishlistController.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\wishlist-service\src\main\java\com\ecommerce\wishlistservice\exception\DuplicateItemException.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\wishlist-service\src\main\java\com\ecommerce\wishlistservice\dto\CreateCollectionDTO.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\wishlist-service\src\main\java\com\ecommerce\wishlistservice\dto\WishlistCollectionDTO.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\wishlist-service\src\main\java\com\ecommerce\wishlistservice\WishlistServiceApplication.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\wishlist-service\src\main\java\com\ecommerce\wishlistservice\entity\WishlistCollection.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\wishlist-service\src\main\java\com\ecommerce\wishlistservice\dto\AddItemToCollectionDTO.java
+C:\Users\2432854\OneDrive - Cognizant\Desktop\E-commerce\E-commerce\backend\wishlist-service\src\main\java\com\ecommerce\wishlistservice\exception\WishlistNotFoundException.java
